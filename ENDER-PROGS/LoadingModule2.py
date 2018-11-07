@@ -1,22 +1,22 @@
 import time
-print('<->     ')
-time.sleep
-print(' <->    ')
-time.sleep
-print('  <->   ')
-time.sleep
-print('   <->  ')
-time.sleep
-print('    <-> ')
-time.sleep
-print('     <->')
-time.sleep
-print('    <-> ')
-time.sleep
-print('   <->  ')
-time.sleep
-print('  <->   ')
-time.sleep
-print(' <->    ')
-time.sleep
-print('<->     ')
+print('(<->     )')
+time.sleep(2)
+print('( <->    )')
+time.sleep(2)
+print('(  <->   )')
+time.sleep(2)
+print('(   <->  )')
+time.sleep(2)
+print('(    <-> )')
+time.sleep(2)
+print('(     <->)')
+time.sleep(2)
+print('(    <-> )')
+time.sleep(2)
+print('(   <->  )')
+time.sleep(2)
+print('(  <->   )')
+time.sleep(2)
+print('( <->    )')
+time.sleep(2)
+print('(<->     )')
