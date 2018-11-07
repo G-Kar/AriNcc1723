@@ -1,5 +1,13 @@
-import shutil         #Contains functions for operating files
-import os         #imports the os
+print('(<->     ) importing time')
+import time
+time.sleep(2)
+print('( <->    ) importing os')
+import os
+time.sleep(2)
+import shutil
+print('(  <->   ) importing shutil')
+time.sleep(2)
+print(' Done ')
 
 def Update():
     os.system("sudo apt-get update")
