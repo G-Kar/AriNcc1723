@@ -2,11 +2,11 @@ import time
 
 while True:
   print('/')
-  time.sleep
+  time.sleep(0.5)
   print('-')
-  time.sleep
+  time.sleep(0.5)
   print('\')
-  time.sleep
+  time.sleep(0.5)
   primt('|')
-  time.sleep
+  time.sleep(0.5)
   print('/')
